@@ -42,7 +42,7 @@ var config={
     'sound':0,
     'sound_name':'bg.mp3',
 
-    'background_style':1,
+    'background_style':2,
     'background_picture':'bg.jpg',
     'background_video':'3.mp4',
     'background_color':'#000000',
